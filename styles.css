@@ -85,7 +85,9 @@
     flex-direction: column;
 }
 
-.images-description{
+.image-description{
     max-width: 200px;
+    color: #393a3b;
+    font-family: "Hero";
 }
 
