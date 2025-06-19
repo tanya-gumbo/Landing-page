@@ -91,3 +91,21 @@
     font-family: "Hero";
 }
 
+.quote-container{
+    background-color:#c2c4c8;
+    display:flex;
+    justify-content: center;
+    padding:10px;
+}
+.quote-paragraph{
+    max-width: 700px;
+    font-size: 20px;
+    font-family: "light italic" "Papyrus";
+    color: #1F2937;
+    padding:10px;
+}
+
+.author{
+    align-self:last baseline;
+}
+
