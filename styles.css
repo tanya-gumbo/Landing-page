@@ -73,13 +73,19 @@
     font-weight: 800;
 }
 
-.images{
+.images-grid{
     display:flex;
+    justify-content: space-around;
+    gap:20px;
 }
 
 .image{
-    height:100px;
-    width:100px;
+    width:200px;
+    height:auto;
     flex-direction: column;
+}
+
+.images-description{
+    max-width: 200px;
 }
 
