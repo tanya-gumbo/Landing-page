@@ -150,3 +150,10 @@
     align-self: center;
 }
 
+.credits-section{
+    justify-items: center;
+    background-color: #1f2937;
+    color:#ebecea;
+    padding:20px;
+}
+
