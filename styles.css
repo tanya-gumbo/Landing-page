@@ -125,3 +125,17 @@
     padding: 20px;
 }
 
+.call-text{
+    font-family: "Hero";
+    font-size: 20px;
+    color:#F9FAF8;
+    font-weight: 700;
+}
+
+.sign-up-message{
+    font-family: "Hero";
+    font-size: 15px;
+    color:#ebecea;
+    font-weight: 400;
+}
+
