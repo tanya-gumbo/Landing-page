@@ -7,6 +7,14 @@
 .links-container{
     display:flex;
     background-color: #1f2937;
+    justify-content: space-around;
+}
+
+.header-links{
+    display:flex;
+    font-family: "Roboto" "Open Sans" "Noto Sans" "Times New Roman";
+    color:white;
+    gap:40px;
 }
 
 .header-container{
