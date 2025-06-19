@@ -18,3 +18,13 @@
     border-radius: 50%;
 }
 
+.images{
+    display:flex;
+}
+
+.image{
+    height:100px;
+    width:100px;
+    flex-direction: column;
+}
+
