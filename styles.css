@@ -58,6 +58,21 @@
     border:none;
 }
 
+.images-container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    padding:10px;
+}
+
+.images-header{
+    font-family: "Segoe UI Rounded", "Arial Rounded MT Bold", Arial, sans-serif;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 800;
+}
+
 .images{
     display:flex;
 }
